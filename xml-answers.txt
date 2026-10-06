@@ -1,0 +1,13 @@
+1. What are the basic rules of XML you applied in this lab?
+
+The basic XML rules I applied include having one root element, properly opening and closing every element, using correct nesting, and following case-sensitive tag names. I also made sure that the XML document follows a consistent structure and that all student information is placed inside the appropriate elements.
+
+
+2. Why does XML need a single root element?
+
+XML needs a single root element because it provides one main starting point for the entire document. It organizes all other elements into one structure and allows applications to understand the relationship between the different pieces of data.
+
+
+3. How does XML ensure interoperability?
+
+XML ensures interoperability by using a standard, text-based format for storing and exchanging data. Different programming languages, operating systems, and applications can read XML because its structure and syntax are standardized. This makes it useful for sharing information between different systems.
